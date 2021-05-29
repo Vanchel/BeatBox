@@ -1,7 +1,4 @@
 # BeatBox
-Another test project that implements some of the capabilities of the android system.
-
-# CriminalIntent
 Еще один тестовый учебный проект, в котором реализованы некоторые возможности операционной системы андроид.
 Приложение написано в ходе чтения книги ["Android Programming: The Big Nerd Ranch Guide"](https://www.amazon.com/Android-Programming-Ranch-Guide-Guides/dp/0135245125/ref=dp_ob_title_bk).
 
